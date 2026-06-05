@@ -171,7 +171,7 @@
       .col.col-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/WD26DBBxszM?si=dR52c4RrvZGPPEwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/_B-8oMaLR7I?si=FhLsSRGQrYm5GO9C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-4.text-center(data-aos="fade-down") Además del procedimiento anterior, es recomendable implementar buenas prácticas como:
     .row.justify-content-center(data-aos="flip-down")
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
